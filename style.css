@@ -1,0 +1,51 @@
+.img{
+    border-radius: 8px;
+    box-shadow: 0 4px 6px 0 hsla(0, 86%, 47%, 0.9);
+    transform: rotate(-0deg);
+    animation: bouncearrow 1s infinite;
+}
+@keyframes bouncearrow{
+    0%{left: 0px;}
+    50%{left: 20px;}
+    100%{left: 0px;}
+}
+.btn-warning img {
+height: 50px;
+width: 50px;
+float: left;
+}
+
+#grad1 {
+        height: 200px;
+        width: 2000 px;
+        background-color: white;
+}
+
+.btn-dark img {
+height: 50px;
+width: 50px;
+float: left;
+margin-left: 5px; 
+}
+
+.btn-primary img {
+height: 50px;
+width: 50px;
+float: left;
+}
+
+
+.btn-danger img {
+    height: 50px;
+    width: 50px;
+    float: left;
+    }
+
+    
+.btn-info img {
+    height: 50px;
+    width: 50px;
+    float: left;
+    }
+
+.normal-button
